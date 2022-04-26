@@ -2,7 +2,7 @@
 
 > A programming task
 
-[View demo](https://ruslanaletdinov.github.io/test-task-tree-view/)
+[View demo](https://cgruslan.github.io/test-task-tree-view/)
 
 
 ## Task
@@ -49,10 +49,3 @@ treeView.addEventListener('select', (event) => {
   console.log(event.id);
 });
 ```
-
-
-## Feedback
-
-If you have any questions, contact me by visiting [this page](https://aletdinov.com/contact/).
-
-Thanks!
